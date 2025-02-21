@@ -19,7 +19,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+.jpg
+.png
+.jpeg
 # Environnements virtuels
 venv/
 env/
