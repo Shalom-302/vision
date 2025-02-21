@@ -7,3 +7,4 @@ google-generativeai
 watchdog
 opencv-python 
 pillow
+opencv-python-headless
