@@ -1,0 +1,9 @@
+langchain_google_genai
+streamlit
+langchain
+python-dotenv
+langchain-community
+google-generativeai
+watchdog
+opencv-python 
+pillow
